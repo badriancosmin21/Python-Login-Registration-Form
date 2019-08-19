@@ -3,5 +3,8 @@ Simple Login/Registration form created in Python which lets me store user creden
 
 # What i learned
 -Work with the tkinter module to create the GUI and insert data into the .txt file.
+
 -Work with the csv module to extract the information from the .txt file.
+
 -Work with the pillow module to insert an image onto the GUI.
+
